@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Datos de simulación — no subir CSVs grandes al repo público
+# Descomenta si quieres excluirlos:
+# *.csv
+
+# Gráficas exportadas
+*.png
+*.pdf
+*.svg
+
+# Archivos de exportación del spline
+cl_spline.py
+cl_spline.m
+cl_spline.json
+cl_spline.csv
+
+# Logs
+*.log
