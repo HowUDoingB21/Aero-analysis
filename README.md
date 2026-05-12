@@ -1,5 +1,7 @@
 # AeroSim Analyzer
 
+<img width="1134" height="402" alt="ORBITAL LOGOS TRANSPARENTE-01" src="https://github.com/user-attachments/assets/140166b7-c082-4e5e-b808-374f510bcd68" />
+
 <p align="center">
   <b>Orbital Dynamics</b> — Análisis de datos CFD con interpolación aerodinámica
 </p>
