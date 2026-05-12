@@ -24,7 +24,7 @@ A desktop analysis tool for SimScale CFD parametric sweep results. Load simulati
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<username>/aero-analysis-gui.git
+git clone https://github.com/HowUDoingB21/aero-analysis-gui.git
 cd aero-analysis-gui
 
 # 2. (Optional) Create a virtual environment
